@@ -6,7 +6,7 @@ from urllib.error import URLError
 
 
 streamlit.title('My family Bakery')
-streamlit.header('Cakes Menu')
+streamlit.header('CAKES n BAKES')
 streamlit.text('Chocolate')
 streamlit.text('tres Les')
 streamlit.text('Vanilla')
